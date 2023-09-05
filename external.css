@@ -1,0 +1,62 @@
+:root{
+    margin-left: 70px;
+    margin-right: 70px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background: #000000;
+}
+.navbar{
+    background: #1d2226;
+    border-radius: 5px;
+    width: 100%;
+}
+img{
+    border-radius: 100px;
+}
+.divdes{
+    background: #1d2226;
+    border-radius: 10px;
+
+}
+.spacer{
+    background: #000000;
+}
+.intro{
+    background: #1d2226;
+    border-radius: 10px;
+}
+.about {
+    background: #1d2226;
+    border-radius: 10px;
+    margin: 20px;
+}
+.head{
+    margin: 20px;
+}
+.head1{
+    margin-bottom: 30px;
+}
+.edu{
+    background: #1d2226;
+    border-radius: 10px;
+    margin: 20px;
+}
+.lang{
+    background: #1d2226;
+    border-radius: 10px;
+    margin: 20px;
+}
+.contact{
+    background: #1d2226;
+    border-radius: 10px;
+    margin: 20px;
+}
+.form{
+    background: #1d2226;
+    border-radius: 10px;
+    margin: 20px;
+}
+a{
+    color: white;
+    
+}
